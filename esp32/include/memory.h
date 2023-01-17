@@ -1,0 +1,7 @@
+#define EEPROM_SIZE 128
+
+#define SSID_ADDRESS 0
+#define SSID_SIZE 64
+
+#define SSID_PASS_ADDRESS 64
+#define SSID_PASS_SIZE 64

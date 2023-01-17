@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "functional": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "set": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "*.tcc": "cpp"
+    }
+}
